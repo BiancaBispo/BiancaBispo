@@ -27,7 +27,8 @@
     <img align="center" alt="Bianca-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bianca-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
     <img align="center" alt="Bianca-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-    <img align="right" alt="gif-pic" height="110" style="border-radius:50px;" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA=="> 
+    <img align="right" alt="gif-pic" height="110" style="border-radius:50px;" src="https://i.pinimg.com/originals/64/8f/ec/648fec32ef1e93e7d68fbdb0a485a838.gif"> 
+    
     <!--
     <img align="center" alt="Bianca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Bianca-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
