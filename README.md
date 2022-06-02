@@ -1,4 +1,4 @@
-### Oi, sou a Bianca Bispo! <img height="30em" src="https://user-images.githubusercontent.com/73037458/127948921-5df98bf3-268d-4c53-9425-6b240e9e571d.gif">
+### Oi, sou a Bianca Bispo! <img height="20em" src="https://user-images.githubusercontent.com/73037458/127948921-5df98bf3-268d-4c53-9425-6b240e9e571d.gif">
 
 <!--
 - 🔭 front-end e back-end
