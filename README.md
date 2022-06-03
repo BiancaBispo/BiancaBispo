@@ -54,8 +54,15 @@
   
 ![Snake animation](https://github.com/BiancaBispo/BiancaBispo/blob/output/github-contribution-grid-snake.svg)
 
+<br><img src="https://img.shields.io/github/followers/BiancaBispo.svg?style=social&label=Follow&maxAge=2592000"/>  
+
   ##
 <div> 
     <!--<img height="180em" src="https://starchart.cc/BiancaBispo/curso_laravel.svg"/>-->
-    <img src="https://img.shields.io/github/followers/BiancaBispo.svg?style=social&label=Follow&maxAge=2592000"/>  
 </div>
+  
+  #### WakaTime:
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bianca)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![wakatime](https://wakatime.com/badge/user/907a6fba-982d-4602-8105-4352e8d46afd.svg)](https://wakatime.com/@907a6fba-982d-4602-8105-4352e8d46afd)
